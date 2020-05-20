@@ -10,6 +10,7 @@ bob = 0
      p src[bob][steve]
      steve += 1
    end
+   end
    bob += 1
  end
 end
