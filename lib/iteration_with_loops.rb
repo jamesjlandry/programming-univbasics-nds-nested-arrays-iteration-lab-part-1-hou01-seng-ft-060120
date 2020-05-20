@@ -8,6 +8,7 @@ bob = 0
    while steve < src[bob].count do
      if src[bob][steve].even ?
      p src[bob][steve]
+   end
      steve += 1
    end
    bob += 1
